@@ -1,7 +1,7 @@
 body {
   background-image: url("../pictures/pexels-julia-volk-5273517.jpg");
   padding: 20px;
-  background-size: auto;
+  background-size: 1400px 1400px;
 }
 
 .menu {
@@ -11,4 +11,10 @@ body {
   margin-right: auto;
   max-width: 500px;
   padding: 20px;
+}
+
+h1,
+h2,
+.established {
+  text-align: center;
 }
