@@ -10,14 +10,36 @@ body {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  max-width: 500px;
-  padding: 20px;
+  max-width: 600px;
+  padding: 30px;
 }
 
 h1,
 h2,
 .established {
   text-align: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+.established {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-top: 0;
+}
+
+hr {
+  background-color: brown;
+  border: 1px solid brown;
+  margin-top: 5px;
+  height: 2px;
 }
 
 .item p {
