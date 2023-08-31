@@ -19,3 +19,20 @@ h2,
 .established {
   text-align: center;
 }
+
+.item p {
+  display: inline-block;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 74%;
+}
+
+.price {
+  text-align: right;
+  width: 24%;
+}
