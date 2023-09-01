@@ -29,6 +29,12 @@ h2 {
   font-size: 2.5rem;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .established {
   font-size: 1.5rem;
   font-style: italic;
