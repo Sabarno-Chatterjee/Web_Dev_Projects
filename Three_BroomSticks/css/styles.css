@@ -57,6 +57,10 @@ hr {
   height: 2px;
 }
 
+.next-page {
+  margin-left: 500px;
+}
+
 .item p {
   display: inline-block;
   font-size: 1.3rem;
