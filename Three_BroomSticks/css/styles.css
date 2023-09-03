@@ -65,7 +65,8 @@ hr {
 
 .flavor,
 .dessert,
-.food {
+.food,
+.liquor {
   text-align: left;
   width: 74%;
 }
