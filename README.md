@@ -17,3 +17,7 @@ pexels-julia-volk-5273517
 <a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Victoruler - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/booze" title="booze icons">Booze icons created by Vectors Tank - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/mug" title="mug icons">Mug icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/cake" title="cake icons">Cake icons created by Freepik - Flaticon</a>
