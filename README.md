@@ -11,3 +11,9 @@ pexels-julia-volk-5273517
 <a href="https://www.flaticon.com/free-icons/finger" title="finger icons">Finger icons created by Pixel perfect - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/park" title="park icons">Park icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/black-cat" title="black cat icons">Black cat icons created by PLANBSTUDIO - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Victoruler - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/booze" title="booze icons">Booze icons created by Vectors Tank - Flaticon</a>
