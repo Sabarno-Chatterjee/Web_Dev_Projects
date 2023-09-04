@@ -5,7 +5,8 @@ body {
   backdrop-filter: blur(7px);
 }
 
-.menu {
+.menu,
+.patrons {
   background-color: burlywood;
   width: 80%;
   margin-left: auto;
