@@ -103,3 +103,15 @@ section {
   text-transform: uppercase;
   font-size: 1.2rem;
 }
+
+a:visited {
+  color: black;
+}
+
+a:after {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
